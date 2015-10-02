@@ -1,0 +1,51 @@
+.position{
+	  background-repeat: no-repeat;
+	opacity:1;
+position: absolute;
+left:30%;
+}
+
+.apple{
+ -webkit-animation-name:fadeIn;
+animation-duration:10s;
+
+}
+
+.tim{
+	position: absolute;
+ -webkit-animation-name:fadeIn;
+animation-duration:4s;
+
+
+color: white;
+font-family: Courier;
+    font-size: 63px;
+    left: 52%;
+    top: 29%;
+
+}
+.cook{
+	position: absolute;
+animation-name:fadeInUp;
+animation-duration: 4s;
+color: white;
+font-family: Courier;
+    font-size: 125px;
+    left: 40%;
+    top: 55%;
+}
+.hack{
+	position: absolute;
+animation-name:fadeInRight;
+animation-duration:40s;
+color: crimson;
+font-family: Courier;
+    font-size: 90px;
+       top: 70%;
+    left: 60%;
+}
+
+audio{
+	position: absolute;
+	opacity: 0;
+}
